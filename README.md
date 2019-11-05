@@ -9,7 +9,6 @@ since 12! is divisible by 2 ten times, by 3 five times, by 5 two times and by 7 
 
 n = 22; decomp(22) -> "2^19 * 3^9 * 5^4 * 7^3 * 11^2 * 13 * 17 * 19"
 
-n = 25; decomp(25) -> 2^22 * 3^10 * 5^6 * 7^3 * 11^2 * 13 * 17 * 19 * 23
 Prime numbers should be in increasing order. When the exponent of a prime is 1 don't put the exponent.
 
 Notes
